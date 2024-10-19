@@ -1,4 +1,5 @@
 public class CurrencyConverter {
+    // this is a comment to test opening a PR
     public static void main(String[] args) {
         java.util.Scanner scan = new java.util.Scanner(System.in);
         System.out.print("If I give you £1, how many Euro will you give me? ");
